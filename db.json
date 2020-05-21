@@ -1,0 +1,19 @@
+{
+  "productos": [
+    {
+      "nombre": "Call of Duty Black Ops 3",
+      "precio": "24.99",
+      "id": 7
+    },
+    {
+      "nombre": "NBA 2k20",
+      "precio": 59.99,
+      "id": 10
+    },
+    {
+      "nombre": "Red Dead Redemption 2",
+      "precio": 64.99,
+      "id": 11
+    }
+  ]
+}
