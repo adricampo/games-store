@@ -17,6 +17,7 @@ API requests done using Axios.
 ## Follow the next steps
 
 Have installed node (+npm)
+
 Install the fake API server (json-server) globally, writting the following code: 
 ````
 npm install -g json-server
