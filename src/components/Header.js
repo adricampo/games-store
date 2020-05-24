@@ -8,7 +8,7 @@ const Header = () => {
             <div className="container">
                 <h1> 
                     <Link to={'/'} className="text-light">
-                        PS4 🎮 GAME STORE
+                        PS4 🎮 GAMES STORE
                     </Link>
                 </h1>
             </div> 
