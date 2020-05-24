@@ -34,7 +34,7 @@ npm run start
 ````
 json-server db.json --port 4000
 ````
-*as the frontend normally is using port 3000, it is important to atribute antother one to the backend site. 
+*as the frontend normally is using port 3000, it is important to atribute another one to the backend site. 
 
 -------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
